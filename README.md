@@ -1,0 +1,2 @@
+# sonastik
+Agiilsõnastik
