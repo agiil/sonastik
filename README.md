@@ -1,2 +1,3 @@
-# sonastik
-Agiilsõnastik
+# Agiilsonastik
+
+https://agiil.github.io/sonastik
