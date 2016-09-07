@@ -1,0 +1,5 @@
+.toc-sidebar { position: fixed;
+	top: 1em; left: 1em;
+  	max-width: 32px; 
+  	z-index: 2;
+}
